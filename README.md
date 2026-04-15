@@ -90,10 +90,5 @@ Project: AI Image Generator
 
 If you like this project, please give it a ⭐ on GitHub!
 
-<img width="1920" height="1080" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/8204fcfc-373e-439e-a89b-3e33459323c0" />
-<img width="1920" height="1080" alt="Screenshot (121)" src="https://github.com/user-attachments/assets/6251781f-a38d-4e3c-a582-6985600fd892" />
-<img width="1920" height="1080" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/ca9717b5-68e0-427c-8fa7-fd6d2dffef23" />
-<img width="1920" height="1080" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/1e83d139-475d-44d2-9989-f9306a38607c" />
-<img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/c0edafe1-1cbd-472e-a715-d442913ce201" />
-<img width="1920" height="1080" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/d2643a97-0cc2-4752-9a2d-5670f4756872" />
-<img width="1920" height="1080" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/53372748-ed72-476b-b493-8ec8f27c4639" />
+<img width="1920" height="1080" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/8b4b2d38-9261-47a8-abeb-5a629a338d9a" />
+
