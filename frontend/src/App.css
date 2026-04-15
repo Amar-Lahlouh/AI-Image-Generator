@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(245, 241, 241);
+    font-family: 'Nunito', sans-serif;
+}
+
+.image-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 2fr));
+    justify-content: center;
+    align-items: center;
+    margin: 30px
+}
