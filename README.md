@@ -78,40 +78,7 @@ npm start
 Start frontend
 npm run dev
 
-## 🖼️ Screenshots
 
-### 1. Home Page
-![Home Page](https://github.com/user-attachments/assets/8204fcfc-373e-439e-a89b-3e33459323c0)
-
----
-
-### 2. Image Generator Page
-![Image Generator](https://github.com/user-attachments/assets/6251781f-a38d-4e3c-a582-6985600fd892)
-
----
-
-### 3. Prompt Input Interface
-![Prompt Input](https://github.com/user-attachments/assets/ca9717b5-68e0-427c-8fa7-fd6d2dffef23)
-
----
-
-### 4. Generated Image Result
-![Generated Image](https://github.com/user-attachments/assets/1e83d139-475d-44d2-9989-f9306a38607c)
-
----
-
-### 5. Loading State
-![Loading State](https://github.com/user-attachments/assets/c0edafe1-1cbd-472e-a715-d442913ce201)
-
----
-
-### 6. User Image History
-![Image History](https://github.com/user-attachments/assets/d2643a97-0cc2-4752-9a2d-5670f4756872)
-
----
-
-### 7. Profile / Dashboard View
-![Dashboard](https://github.com/user-attachments/assets/53372748-ed72-476b-b493-8ec8f27c4639)
 
 💡 Future Improvements
 🎥 Text-to-video generation
