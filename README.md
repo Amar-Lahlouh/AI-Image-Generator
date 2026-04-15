@@ -90,9 +90,6 @@ Project: AI Image Generator
 
 If you like this project, please give it a ⭐ on GitHub!
 
-
-
-
 <img width="1920" height="1080" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/8204fcfc-373e-439e-a89b-3e33459323c0" />
 <img width="1920" height="1080" alt="Screenshot (121)" src="https://github.com/user-attachments/assets/6251781f-a38d-4e3c-a582-6985600fd892" />
 <img width="1920" height="1080" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/ca9717b5-68e0-427c-8fa7-fd6d2dffef23" />
